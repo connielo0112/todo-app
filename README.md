@@ -97,6 +97,11 @@ Create a new task:
 ```
 curl -X POST http://localhost:3000/tasks -H "Content-Type: application/json" -d '{"title": "Test task"}'
 ```
+List all tasks:
+
+```
+curl http://localhost:3000/tasks
+```
 
 
 ## Future Improvements
