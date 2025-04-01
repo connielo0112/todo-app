@@ -2,7 +2,8 @@
 
 A full-stack Todo List application built with React, Node.js, Express, and MongoDB.
 
-![alt text](image.png)
+<img width="488" alt="Screenshot 2025-04-01 at 12 15 07 AM" src="https://github.com/user-attachments/assets/36f18d2e-6558-4c53-83f4-e0302115e9dc" />
+
 
 ## Features
 
